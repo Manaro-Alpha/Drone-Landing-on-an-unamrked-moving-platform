@@ -18,3 +18,5 @@ A visual servoing based controller is used to perform the landing maneuvers usin
 We use contour detection and optical flow for platform detection and tracking.
 
 ![](https://github.com/Manaro-Alpha/Drone-Landing-on-an-unamrked-moving-platform/blob/main/flow_droneLanding.png)
+
+The findings were published at IMSD-ACMD at IIT Delhi under the paper titled ![UAV Landing on General Moving Platforms Without Markers](https://drive.google.com/file/d/1Zx5Pa_gA46OLOfMQFzY1kqcJJhRmZqQ6/view?usp=sharing)
